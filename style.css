@@ -61,7 +61,7 @@ main {
   justify-content: center;
 }
 
-#sounds button:hover {
+#sounds button:focus {
   background-color: #02799d;
   transition: 1000ms;
 }
